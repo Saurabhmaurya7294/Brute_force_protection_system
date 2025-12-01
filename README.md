@@ -143,13 +143,4 @@ This tool is for **learning, defense, and authorized environments only**. Do **N
 
 Pull requests and issues are welcome. If you add features, include tests and update the README accordingly.
 
----
 
-If you want, I can also:
-
-* Generate a `LICENSE` file (MIT/Apache)
-* Add `README` badges and CI steps
-* Produce a `setup.sh` installation script
-* Add code to implement any of the recommended features above
-
-Tell me which one to do next.
